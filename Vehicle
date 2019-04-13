@@ -1,0 +1,10 @@
+1;OLD;GreenWheelX1;Blue|gearbox=8 speed;transmission=automatic;engineType=diesel;engineSize=4.0 liter ;numberOfDoors=5;wheelSize=16
+2;OLD;GreenWheelX1;Black|gearbox=8 speed;transmission=automatic;engineType=diesel;engineSize=4.0 liter ;numberOfDoors=5;wheelSize=16
+3;OLD;GreenWheelX1;Red|gearbox=8 speed;transmission=automatic;engineType=diesel;engineSize=4.0 liter ;numberOfDoors=5;wheelSize=16
+4;OLD;GreenWheelX1;Green|gearbox=8 speed;transmission=automatic;engineType=diesel;engineSize=4.0 liter ;numberOfDoors=5;wheelSize=16
+5;OLD;GreenWheelX1;Yellow|gearbox=8 speed;transmission=automatic;engineType=diesel;engineSize=4.0 liter ;numberOfDoors=5;wheelSize=16
+51;NEW;MediumGreenSaloon;Celestial blue|gearbox=(vin:1);transmission=(vin:1);engineType=(vin:1);engineSize=(vin:1);numberOfDoors=(vin:1);wheelSize=(vin:1)
+52;NEW;MediumGreenSaloon;Black Coffee|gearbox=(vin:2);transmission=(vin:2);engineType=(vin:2);engineSize=(vin:2);numberOfDoors=(vin:2);wheelSize=(vin:2)
+53;NEW;MediumGreenSaloon;Brick Red|gearbox=(vin:3);transmission=(vin:3);engineType=(vin:3);engineSize=(vin:3);numberOfDoors=(vin:3);wheelSize=(vin:3)
+54;NEW;MediumGreenSaloon;Celadon Green|gearbox=(vin:4);transmission=(vin:4);engineType=(vin:4);engineSize=(vin:4);numberOfDoors=(vin:4);wheelSize=(vin:4)
+55;NEW;MediumGreenSaloon;Chrome Yellow|gearbox=(vin:5);transmission=(vin:5);engineType=(vin:5);engineSize=(vin:5);numberOfDoors=(vin:5);wheelSize=(vin:5)
