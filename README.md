@@ -1,4 +1,4 @@
-#Project Brief
+# Project Brief
 The GreenWheel car manufacturer is updating their product line. They have decided to produce a limited run of 200 new products.
 GreenWheel has 50 dealerships already selling their cars.
 The new vehicles use components from existing cars.
@@ -11,7 +11,7 @@ GreenBus
 Existing Cars:
 GreenWheelX1, GreenWheelX2, GreenWheelX3, GreenWheelX4, GreenWheelX5
 GreenWheelX6, GreenWheelX7, GreenWheelX8, GreenWheelX9, GreenWheelX10
-Existing Car details:
+## Existing Car details:
 name: (GreenWheelX2 / GreenWheelX9 etc.)
 vinNumber: (vehicle id)
 gearbox: (5 / 6 / 8 speed)
@@ -37,7 +37,7 @@ MediumGreenSaloon (vin:24)
 1.5 litre diesel engine (GreenWheelX1(vin:15)),
 8 speed (GreenWheelX1 (vin:15)), automatic transmission (GreenWheelX7(vin:11)),
 17 inch alloy wheels (GreenWheelX7(vin:11)), 3 doors(GreenWheelX5(vin:17)), in cherry red.
-##GreenWheel cars are sold in the GreenWheel dealerships.
+## GreenWheel cars are sold in the GreenWheel dealerships.
 GreenWheel Dealership details:
 name
 address
@@ -61,7 +61,7 @@ Your end user must be able to:
 (3) Select a single new product to view
 (4) View the dealerships and their products
 (5) Select a product from a dealership to view
-##Project Requirements / Rules:
+## Project Requirements / Rules:
 You are required to implement the preceding program specification, in order to do this you must:
 Generate data on first run of program. (not hard coded). Data must be persistent while program is running.(i.e program must use the generated data). All data may be (but does not have to be) saved to a .txt file to be used for subsequent runs of the program (program must then use this data). Java standard edition 7, 8 or 9 (8 recommended) only, to be used.
 Dependencies allowed (can be, but do not have to be used): AWT / Swing. .txt file/s.
