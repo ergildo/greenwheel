@@ -1,7 +1,7 @@
 # Project Brief
 The GreenWheel car manufacturer is updating their product line. They have decided to produce a limited run of 200 new products.
 GreenWheel has 50 dealerships already selling their cars. <b>
-The new vehicles use components from existing cars.<b>
+The new vehicles use components from existing cars. <b>
 You have been tasked with gathering the components for the new vehicle line and distributing the completed 200 cars to the dealerships.<b>
 # GreenWheel new product names:
 BigGreenAutoCar <b>
